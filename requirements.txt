@@ -1,0 +1,2 @@
+py2neo
+jupyterlab==2.2.8

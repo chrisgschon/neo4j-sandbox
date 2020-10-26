@@ -1,0 +1,3 @@
+vars.env
+*.ipynb
+data/
